@@ -1,0 +1,7 @@
+{
+  "test": {
+    "webapp.baseURL": "https://app.caspar-health.com/en/#/user/sign_in",
+    "webapp.username": "PJK5140",
+    "webapp.password": "Test2234"
+  }
+}
